@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner 
 
 ### `npm run build`
 
