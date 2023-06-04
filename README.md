@@ -9,7 +9,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests]
 
 ### `npm run build`
 
