@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `npm test`
 
 Builds the app for production 
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It correctly bundles React in production mode and optimizes the build
 
 The build is minified and the filenam
 Your app is ready to be deployed!
