@@ -8,7 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm test`
 
-Builds th
 It correctly bundles React in production mode and optimizes the build
 
 The build is minified and the filenam
