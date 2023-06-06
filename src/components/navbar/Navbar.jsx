@@ -3,7 +3,7 @@ import './navbar.css';
 import { RiMenu3Line, RiCloseLin } from 'react-icons/ri';
 import logo from '../../assets/logo.svg';
 
-// BEM -> bLOCK ELEMENT MODI
+// BEM -> bLOCK ELEMENT M
 const Navbar = () => {
   return (
     <div className='gpt3__navbar'>
