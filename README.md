@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-You don't have to ever use `eject`. The curated
+You don't have to ever use `eject`. T
 
 ## Learn More
 
